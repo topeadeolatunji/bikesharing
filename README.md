@@ -26,3 +26,5 @@ Lastly, we looked at the top 10 stations / locations for starting and ending tri
 ## Summary & Conclusion
 
 Based on the visualisations above, one can conclude that the over 80% of the user groups are subscribers to the bikesharing programme. Therefore, in order for the Des Moines registry to be successful, a similar model might be adopted which will likely mean loyal users. Also, more than half of the users for the NYC bikeshare are males and top starting and ending locations are generally the same. I'd say this is a good model to replicate for the Des Moines city bike programme.
+
+[Link to the Tableau dashboard] (https://public.tableau.com/app/profile/tope.adeolatunji/viz/NYCityBikesharing_16606238489790/NYCCitiBike?publish=yes)
